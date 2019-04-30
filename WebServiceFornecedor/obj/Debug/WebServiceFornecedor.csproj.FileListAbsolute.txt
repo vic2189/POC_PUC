@@ -1,0 +1,9 @@
+C:\Users\vic21\Documents\Visual Studio 2017\Projects\POC_TCC\casoDeUso_1\WebServiceFornecedor\bin\WebServiceFornecedor.dll.config
+C:\Users\vic21\Documents\Visual Studio 2017\Projects\POC_TCC\casoDeUso_1\WebServiceFornecedor\bin\WebServiceFornecedor.dll
+C:\Users\vic21\Documents\Visual Studio 2017\Projects\POC_TCC\casoDeUso_1\WebServiceFornecedor\bin\WebServiceFornecedor.pdb
+C:\Users\vic21\Documents\Visual Studio 2017\Projects\POC_TCC\casoDeUso_1\WebServiceFornecedor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vic21\Documents\Visual Studio 2017\Projects\POC_TCC\casoDeUso_1\WebServiceFornecedor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vic21\Documents\Visual Studio 2017\Projects\POC_TCC\casoDeUso_1\WebServiceFornecedor\obj\Debug\WebServiceFornecedor.csprojResolveAssemblyReference.cache
+C:\Users\vic21\Documents\Visual Studio 2017\Projects\POC_TCC\casoDeUso_1\WebServiceFornecedor\obj\Debug\WebServiceFornecedor.csproj.CoreCompileInputs.cache
+C:\Users\vic21\Documents\Visual Studio 2017\Projects\POC_TCC\casoDeUso_1\WebServiceFornecedor\obj\Debug\WebServiceFornecedor.dll
+C:\Users\vic21\Documents\Visual Studio 2017\Projects\POC_TCC\casoDeUso_1\WebServiceFornecedor\obj\Debug\WebServiceFornecedor.pdb
